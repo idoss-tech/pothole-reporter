@@ -1,5 +1,4 @@
 # Secrets and personal data: never commit
-.env
 reports.db
 photos/
 
@@ -26,3 +25,4 @@ eval/.rad-data/
 eval/.rad-cache/
 eval/rad-data/
 eval/rad-results/
+config.bat
